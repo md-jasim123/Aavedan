@@ -68,6 +68,7 @@ Backend:
 - Pydantic
 
 Frontend:
+- JavaScript
 - React 18
 - Vite
 - React Router
